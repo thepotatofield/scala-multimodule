@@ -1,0 +1,5 @@
+# Routes (Higher priority routes first)
+
+# Users
+GET        /                             controllers.DummyController.saySomething()
+
